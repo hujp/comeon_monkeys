@@ -5,7 +5,11 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
+
+   preface
+   section1/*
+   section2/*
 
 
 Indices and tables
